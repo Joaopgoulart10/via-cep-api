@@ -1,0 +1,16 @@
+.App form {
+  width: 300px;
+  margin: 80px auto;
+  margin-left: 500px;
+}
+.form-control-group {
+  display: flex;
+  flex-direction: column;
+}
+.form-control-group label{
+  margin-bottom: 5px;
+}
+.form-control-group button{
+  margin-left: 100px;
+  margin-top: 15px;
+}
